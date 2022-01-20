@@ -6,7 +6,7 @@ public class Animal{
     public string name;
     public string sound;
 
-    Animal()
+    public Animal()
     {
 
     }
